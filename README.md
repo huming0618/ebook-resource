@@ -11,6 +11,7 @@ collection for the resource of ebooks
 - http://vdisk.weibo.com/s/aK8h8G1K3KitI it-ebook 2016合集
 - http://vdisk.weibo.com/s/aK8h8G1KA09Y-?from=page_100505_profile&wvr=6 it-ebooks 2015合集
 - https://github.com/justjavac/free-programming-books-zh_CN IT资料合集
+- https://book.sciencereading.cn/shop/main/Login/shopFrame.do 科学书籍在线阅读
 
 ## Good GitBook
 - https://www.gitbook.com/book/tidyjiang8/iot-in-5-days-chinese/details iot物联网
